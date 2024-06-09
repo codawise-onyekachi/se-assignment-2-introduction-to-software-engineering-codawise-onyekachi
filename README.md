@@ -230,5 +230,5 @@ Submit your completed assignment by [due date].
 
 
 References:
-AI Chartbot. https://plpacademy.powerlearnproject.org/ai-chat
-Chacon, S., & Straub, B. (2024). Pro Git (2nd ed.). Apress.
+1. AI Chartbot. https://plpacademy.powerlearnproject.org/ai-chat
+2. Chacon, S., & Straub, B. (2024). Pro Git (2nd ed.). Apress.
